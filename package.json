@@ -15,10 +15,18 @@
   "dependencies": {
     "geo-convert-position-format": "^1.0.0",
     "geo-identify-position-format": "^1.0.2",
-    "gl-vec3": "^1.0.3",
+    "gl-vec3": "^1.0.3"
   },
   "devDependencies": {
     "gl-mat4": "^1.1.4",
     "nodeunit": "^0.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwwtyro/geo-3d-transform-mat4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wwwtyro/geo-3d-transform-mat4/issues"
+  },
+  "homepage": "https://github.com/wwwtyro/geo-3d-transform-mat4#readme"
 }
