@@ -1,0 +1,24 @@
+{
+  "name": "geo-3d-transform-mat4",
+  "version": "1.0.0",
+  "description": "Transform geometry positions with a 4x4 transformation matrix.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "keywords": [
+    "stackgl",
+    "geometry"
+  ],
+  "author": "Rye Terrell",
+  "license": "Unlicense",
+  "dependencies": {
+    "geo-convert-position-format": "^1.0.0",
+    "geo-identify-position-format": "^1.0.2",
+    "gl-vec3": "^1.0.3",
+  },
+  "devDependencies": {
+    "gl-mat4": "^1.1.4",
+    "nodeunit": "^0.9.1"
+  }
+}
